@@ -1,5 +1,2 @@
----
-type: Type
----
-
 # Note
+A general note or thought.

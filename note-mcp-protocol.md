@@ -1,3 +1,6 @@
+---
+type: Note
+---
 # MCP Protocol — Research
 
 ## Apa itu MCP?

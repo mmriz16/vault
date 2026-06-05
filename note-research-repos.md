@@ -1,3 +1,6 @@
+---
+type: Note
+---
 # Polymarket Trading Bot
 
 Repo: [MrFadiAi/Polymarket-bot](https://github.com/MrFadiAi/Polymarket-bot)

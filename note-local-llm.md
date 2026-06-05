@@ -1,3 +1,6 @@
+---
+type: Note
+---
 # Local LLMs — Research Notes
 
 ## Kenapa pake local?
